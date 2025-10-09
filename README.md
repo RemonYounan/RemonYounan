@@ -5,7 +5,7 @@ I have over 3 years of experience creating high-quality mobile apps that are fas
 
 ## 🌟 **About Me**  
 
-- 👨‍💻 **Experience**: 2+ years of hands-on experience building cross-platform apps with Flutter.  
+- 👨‍💻 **Experience**: 3+ years of hands-on experience building cross-platform apps with Flutter.  
 - 🏆 **Top-Rated Freelancer** on Upwork, known for delivering high-quality projects.  
 - 🔧 **Expertise**:  
   - Building scalable UI/UX with Flutter's rich widget library.  
