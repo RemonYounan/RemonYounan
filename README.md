@@ -15,7 +15,31 @@ I have over 3 years of experience creating high-quality mobile apps that are fas
 
 ## ✨ **Highlighted Projects**  
 
-### 1. **Aklne App**  
+### 1. **Seen: A Safe Space to Talk**  
+A voice-first mobile application built to provide a safe, anonymous space for people to talk, feel heard, and connect with trained listeners in real time.
+
+- Developed the app from scratch using Flutter, covering full user flows including authentication, onboarding, and core communication features.  
+- Built and integrated real-time voice calling using Agora SDK with low-latency, stable connections.  
+- Implemented a complex cross-platform incoming call system (Android & iOS) with native call UI behavior, allowing users to receive calls even when the app is in background/terminated state.  
+- Handled call actions (accept/reject) with automatic navigation into in-app call sessions and real-time connection establishment between users.  
+- Focused on privacy, reliability, and smooth UX for emotionally sensitive conversations.
+
+**Key Features:**  
+- Anonymous voice conversations with trained listeners  
+- Smart matching based on preferences (language, dialect, experience, etc.)  
+- Real-time voice calling system powered by Agora  
+- Incoming call notifications with native accept/reject controls (Android & iOS)  
+- Safety-first design with reporting and moderation tools  
+- Arabic-first experience tailored for the MENA region  
+
+**Technologies:**  
+Flutter, Agora SDK, Firebase (Auth/Notifications), Native Android & iOS call handling, Push Notifications, Clean Architecture
+
+**Available on:**  
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.werseen.app)  
+- [Apple App Store](https://apps.apple.com/eg/app/seen-a-safe-space-to-talk/id6752343513)  
+
+### 2. **Aklne App**  
 A recipe app that brings fresh meal ideas to users daily, with a focus on convenience and engagement.
 - Worked on improving the app’s features, performance, and overall design.
 - Enhanced meal search and filtering for better user experience and optimized API requests for faster performance.
@@ -27,7 +51,7 @@ A recipe app that brings fresh meal ideas to users daily, with a focus on conven
 - [Google Play Store](https://play.google.com/store/apps/details?id=com.aklne.app)  
 - [Apple App Store](https://apps.apple.com/us/app/id6612032423)  
 
-### 2. **FollowOn App**  
+### 3. **FollowOn App**  
 A complete solution for managing sports teams and events, designed to simplify team coordination and communication.
 - Developed the app from scratch, transforming a simple design into a feature-rich platform.  
 - Key Features:  
@@ -39,7 +63,7 @@ A complete solution for managing sports teams and events, designed to simplify t
 - [Google Play Store](https://play.google.com/store/apps/details?id=com.teeva.app)  
 - [Apple App Store](https://apps.apple.com/us/app/id6608983845)  
 
-### 3. **INSRC App**  
+### 4. **INSRC App**  
 The official app for the International Search and Rescue Conference and Exhibition (INSRC 2024).
 - Provides attendees with comprehensive event details, including schedules, exhibitor information, and interactive maps
 - Designed for seamless navigation, networking, and access to the latest innovations in search and rescue.
