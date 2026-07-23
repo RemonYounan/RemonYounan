@@ -1,7 +1,7 @@
 
 # 💻 **Welcome** 🚀  
 
-I have over 3 years of experience creating high-quality mobile apps that are fast, user-friendly, and visually appealing. I can design smooth user interfaces, connect apps to APIs, fix issues, and add advanced features like notifications, file handling, and in-app purchases. Let’s work together to turn your ideas into amazing apps!
+I have over 4 years of experience creating high-quality mobile apps that are fast, user-friendly, and visually appealing. I can design smooth user interfaces, connect apps to APIs, fix issues, and add advanced features like notifications, file handling, and in-app purchases. Let’s work together to turn your ideas into amazing apps!
 
 ## 🌟 **About Me**  
 
