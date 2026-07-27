@@ -1,17 +1,18 @@
 
 # 💻 **Welcome** 🚀  
 
-I have over 4 years of experience creating high-quality mobile apps that are fast, user-friendly, and visually appealing. I can design smooth user interfaces, connect apps to APIs, fix issues, and add advanced features like notifications, file handling, and in-app purchases. Let’s work together to turn your ideas into amazing apps!
+Software Engineer with 4+ years of experience delivering high-performance, full-stack applications. I specialize in managing the complete product lifecycle—from designing intuitive user interfaces to building robust backend REST APIs and cloud deployments. Let’s work together to turn your ideas into amazing applications!
 
 ## 🌟 **About Me**  
 
-- 👨‍💻 **Experience**: 3+ years of hands-on experience building cross-platform apps with Flutter.  
+- 👨‍💻 **Experience**: 4+ years of hands-on experience delivering full-stack applications and cross-platform mobile apps.  
 - 🏆 **Top-Rated Freelancer** on Upwork, known for delivering high-quality projects.  
 - 🔧 **Expertise**:  
-  - Building scalable UI/UX with Flutter's rich widget library.  
-  - Integrating APIs and managing state with tools like `Provider` and `Cubit`.  
-  - Adding advanced features like real-time data handling, media playback, notifications, and file management. 
-- 🌱 **Always Learning**: Continuously exploring new Flutter updates, performance improvements, and AI integrations.
+  - Building scalable UI/UX for web and mobile interfaces.  
+  - Designing and building robust backend REST APIs and database integrations.  
+  - Deploying and managing applications in cloud environments (Firebase, cloud deployments).  
+  - Developing cross-platform mobile apps with Flutter (Agora SDK, state management).  
+- 🌱 **Always Learning**: Continuously exploring new system architecture trends, cloud services, and AI integrations.
 
 ## ✨ **Highlighted Projects**  
 
@@ -74,15 +75,16 @@ The official app for the International Search and Rescue Conference and Exhibiti
 - [Apple App Store](https://apps.apple.com/eg/app/insrc/id6478123864)  
 
 ## 🔧 **Tech Stack & Tools**  
-- **Languages & Frameworks**: Flutter, Dart, Firebase, REST APIs, GraphQL.  
+- **Frontend**: HTML, CSS, JavaScript, Flutter, Dart.  
+- **Backend & Cloud**: REST APIs, WebSockets, GraphQL, Firebase, Node.js.  
 - **State Management**: Provider, Cubit/Bloc, Riverpod.  
-- **Dev Tools**: Visual Studio Code, Android Studio, Xcode.  
-- **Other Skills**: Google Analytics, in-app billing, Firebase Cloud Messaging, file handling, and more!  
+- **Dev Tools**: Git, Figma, Postman, Visual Studio Code, Android Studio, Xcode.  
+- **Other Skills**: System design, database management, push notifications, media playback, offline-first sync.
 
 ## 🏗️ **What I’m Working On**  
-- Integrating AI models with Flutter apps for real-time, offline solutions.  
-- Enhancing Flutter app architecture with optimized state management strategies.  
-- Collaborating on cutting-edge projects to push the boundaries of Flutter capabilities.  
+- Integrating AI models with full-stack and mobile apps for real-time solutions.  
+- Enhancing application architecture with optimized state management and robust APIs.  
+- Collaborating on cutting-edge projects to push the boundaries of modern software engineering.  
 
 ## 🤝 **Let’s Collaborate**  
 I’m always excited to work on innovative ideas and challenging projects. Got something in mind? Let’s make it happen:  
@@ -96,4 +98,4 @@ I’m always excited to work on innovative ideas and challenging projects. Got s
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/remon-younan-898746206)  
 ---
 
-Feel free to fork my projects, raise issues, or submit PRs. Let's build the future of mobile applications together! ✨  
+Feel free to fork my projects, raise issues, or submit PRs. Let's build the future of high-performance, full-stack applications together! ✨  
